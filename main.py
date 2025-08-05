@@ -30,4 +30,4 @@ async def mem(ctx):
  
     await ctx.send(file=picture)
 
-bot.run("MTM5NzI1OTA3NjAzOTIxMzIyOA.GdaGFw.pbRRrpmudY7T18HgfoNpKkM4AtMlgo1k4b0gUE")
+bot.run("token yazın")
